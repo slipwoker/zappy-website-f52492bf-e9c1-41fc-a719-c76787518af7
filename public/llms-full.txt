@@ -2,13 +2,13 @@
 
 A professional monument restoration and cleaning service operating in Jerusalem and the central region of Israel. The business focuses on preserving and renewing gravestones, offering families a respectful and meaningful way to maintain their loved ones' memorials. The service carries a tone of dignity, care, and tradition, catering to families seeking quality memorial upkeep.
 
-Source: https://-f52492bf.zappy5.app
+Source: https://example.com
 
 ---
 
 ## brigadier general william c doyle veterans memorial cemetery
 
-URL: https://-f52492bf.zappy5.app
+URL: https://example.com
 Description: A professional monument restoration and cleaning service operating in Jerusalem and the central region of Israel. The business focuses on preserving and renewin
 
 brigadier general william c doyle veterans memorial cemetery
@@ -637,7 +637,7 @@ brigadier general william c doyle veterans memorial cemetery
 
 ## מדיניות פרטיות
 
-URL: https://-f52492bf.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -839,7 +839,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-f52492bf.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1050,7 +1050,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-f52492bf.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
