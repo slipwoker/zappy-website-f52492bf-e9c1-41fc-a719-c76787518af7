@@ -28,7 +28,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 0521111111111
+- Phone (tel): tel:0521111111111
+- Address: Israel
 
 ### Contact form
 - URL: https://example.com
