@@ -1,0 +1,67 @@
+# המצבה — Generative Engine Optimization Map
+
+> A professional monument restoration and cleaning service operating in Jerusalem and the central region of Israel. The business focuses on preserving and renewing gravestones, offering families a respectful and meaningful way to maintain their loved ones' memorials. The service carries a tone of dignity, care, and tradition, catering to families seeking quality memorial upkeep.
+
+---
+
+## Pages
+
+### בית
+https://-f52492bf.zappy5.app
+A professional monument restoration and cleaning service operating in Jerusalem and the central region of Israel. The business focuses on preserving and renewin
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f52492bf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f52492bf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f52492bf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f52492bf.zappy5.app
+- Endpoint: https://-f52492bf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המצבה
+A professional monument restoration and cleaning service operating in Jerusalem and the central region of Israel. The business focuses on preserving and renewing gravestones, offering families a respectful and meaningful way to maintain their loved ones' memorials. The service carries a tone of dignity, care, and tradition, catering to families seeking quality memorial upkeep.
+
+## Target Audience
+- משפחות המעוניינות בטיפול ושיקום מצבות באזור ירושלים והמרכז
+- משפחות בירושלים והמרכז
+- ארגוני תחזוקת מצבות
+- ילדים של קשישים
+
+## Industry
+Cemetery & Memorial Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f52492bf.zappy5.app/sitemap.xml
+- Robots: https://-f52492bf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f52492bf.zappy5.app/llms-full.txt
